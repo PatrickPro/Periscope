@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Periscope App</string>
+    <string name="roll_text">Roll:</string>
+    <string name="pitch_text">Pitch: </string>
+    <string name="yaw_text">Yaw:</string>
+    <string name="encoder_text">Encoder:</string>
+    <string name="button_text">Button:</string>
+
+</resources>
